@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel Neves 👋</h1>
+<h1 align="center">Olá, me chamo Gabriel Neves 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full-Stack</strong> · Sistemas &amp; BI · Mobile &amp; Integrações<br/>
