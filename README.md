@@ -72,6 +72,36 @@
 
 ---
 
+### 📜 Certificações
+
+- 🐍 **Python + RPA** — Udemy
+- ⚛️ **Front-end: HTML, CSS, JavaScript, React** — Udemy
+- 📊 **Power BI: DAX, Contextos e Iteração** — Alura
+- 🔗 **Power Query** — Alura
+- 🚀 **Trilha Conectar** — Rocketseat
+- 🛠️ **Technical Support Fundamentals** — Google
+
+<details>
+  <summary>Ver todas as certificações</summary>
+
+  <br/>
+
+  - Python + RPA — Udemy (Nov 2024)
+  - Formação Front-end: HTML, CSS, JavaScript, React — Udemy (Nov 2024)
+  - Power BI: DAX Contextos e Iteração — Alura (Jul 2024)
+  - Power Query — Alura (Jul 2024)
+  - Trilha Conectar — Rocketseat (Mar 2024)
+  - Technical Support Fundamentals — Google (Out 2024)
+  - Inovação Aberta: Táticas e Ferramentas para Implementação — Alura (Out 2024)
+  - Inovação: Descubra Como e Onde Inovar — Alura (Out 2024)
+  - Inovação — Sebrae (Out 2024)
+  - Liderança: Como Desenvolver Times de Alta Performance — Sebrae (Out 2024)
+  - Qualidade no Atendimento ao Cliente — Sebrae (Out 2024)
+
+</details>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gnoq-gabrielneves&style=for-the-badge&color=0A66C2&label=VISITAS+NO+PERFIL" alt="Visitas no perfil"/>
 </p>
