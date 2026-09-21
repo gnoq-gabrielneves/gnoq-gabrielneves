@@ -72,9 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gnoq-gabrielneves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoq-gabrielneves&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=gnoq-gabrielneves&style=for-the-badge&color=0A66C2&label=VISITAS+NO+PERFIL" alt="Visitas no perfil"/>
 </p>
