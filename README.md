@@ -1,43 +1,74 @@
 <h1 align="center">Olá, eu sou o Gabriel Neves 👋</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full-stack</strong> — construindo do front ao back com <br/>
-  Next.js, React Native e C#.
+  <strong>Desenvolvedor Full-Stack</strong> · Sistemas &amp; BI · Mobile &amp; Integrações<br/>
+  +4 anos entregando sistemas em produção para operações reais — da arquitetura e integrações via API até apps mobile e dashboards de BI.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-neves-687438194/">
+  📍 Contagem, MG, Brasil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielneves687438194/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gabrielnevesoq@gmail.com">
+  <a href="mailto:gabrieloliveiraquintao@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
+### 💡 Sobre mim
+
+- 🚀 Full-stack em todo o ciclo: arquitetura, back-end, front-end, mobile e BI
+- 🏭 Experiência com **ERP**, **automação (RPA/ETL)** e integrações entre sistemas
+- 📊 Dashboards e relatórios em **Power BI** (DAX, Power Query)
+- 🔐 Boas práticas: CI/CD, conformidade com **LGPD**, autenticação segura e criptografia
+- 🎓 Bacharelado em Sistemas de Informação — PUC Minas (previsto 2026)
+
+---
+
 ### 🛠️ Tecnologias
 
-<p align="center">
+**Frontend**
+
+<p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <br/>
+</p>
+
+**Backend &amp; Banco de Dados**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
+
+**Mobile · BI · Automação**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Platform"/>
 </p>
 
 ---
 
-### 💡 Sobre mim
+### 💼 Experiência
 
-- 🚀 Foco em desenvolvimento **web** (Next.js) e **mobile** (React Native)
-- 🔧 Back-end com **C# / .NET**
-- 🌱 Sempre aprendendo algo novo e melhorando meus projetos
-- 💬 Vamos conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/gabriel-neves-687438194/)
+- **Desenvolvedor Full-Stack (PJ)** — QODELESS · *2026 – Presente*
+- **Desenvolvedor Full-Stack** — GML Soluções Industriais · *2025 – 2026*
+- **Desenvolvedor Full-Stack** — Lider Field Marketing · *2025*
+- **Desenvolvedor Full-Stack** — MIP Engenharia S/A · *2021 – 2025*
 
 ---
 
